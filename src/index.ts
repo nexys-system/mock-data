@@ -1,1 +1,1 @@
-console.log('main entry point');
+import * as Names from "./names";
